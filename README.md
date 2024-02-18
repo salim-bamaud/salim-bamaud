@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salim-bamaud
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Laravel and have some projects on it
+- 🌱 I have some experience in  Laravel.
 - 📫 Contact me at:
 - salem@salemsaleh.net
 
